@@ -32,7 +32,7 @@
 - 💻 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
+  <!-- ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js) -->
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=ff2e2e)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=2e82ff)
 - 🌐 &nbsp;
@@ -43,7 +43,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=2e82ff)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&)
+  <!-- ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&) -->
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
@@ -58,7 +58,7 @@
 
 <br/>
 
-[![MuhammadAbdiel's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhammadAbdiel&theme=shades-of-purple)](https://git.io/praveenscience)
+[![MuhammadAbdiel's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadAbdiel&theme=shades-of-purple)](https://git.io/praveenscience)
 
 <a href="https://github.com/MuhammadAbdiel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbdiel&theme=shades-of-purple&show_icons=true" />
