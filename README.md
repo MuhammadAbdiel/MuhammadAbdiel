@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/muhammad-abdiel-firjatullah-19a1a7206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Abdiel Firjatullah" height="30" width="40" /></a>
 <a href="https://www.facebook.com/muhammadabdielfirjatullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Muhammad Abdiel Firjatullah" height="30" width="40" /></a>
 <a href = 'https://www.github.com/MuhammadAbdiel'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'https://muhammadabdiel.github.io/'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://my-portfolio-w3b.netlify.app/'> <img height="30" width="40" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href="https://instagram.com/abdielfirdie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Muhammad Abdiel Firjatullah" height="30" width="40" /></a>
 </p>
 <br>
@@ -58,7 +58,7 @@
 
 <br/>
 
-[![MuhammadAbdiel's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MuhammadAbdiel&theme=shades-of-purple)](https://git.io/praveenscience)
+[![MuhammadAbdiel's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAbdiel&theme=shades-of-purple)](https://git.io/praveenscience)
 
 <a href="https://github.com/MuhammadAbdiel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadAbdiel&theme=shades-of-purple&show_icons=true" />
