@@ -1,18 +1,17 @@
 <p align="center">
-    <img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" width="400">
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400">
 </p>
 
 <h1 align="center">Hi, I'm Muhammad Abdiel Firjatullah 👋</h1>
 
 ## 👨🏻‍💻 About Me
 
-- 🔭 I’m currently studying on State Polytechnic of Malang
-- 🌱 I’m currently learning everything what I want
-- 👯 I’m looking to collaborate on whoever you are
-- 🤔 I’m looking for help with everybody that can help me
-- 💬 Ask me about my life
-- 📫 How to reach me: Just give your hand to me
-- ⚡ Fun fact: Programmer
+- 🔭 &nbsp; I’m currently learning JavaScript Stack
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Information Technology at State Polytechnic of Malang.
+- 💼 &nbsp; Full Stack Developer.
+- 🌱 &nbsp; Enthusiast in Web Programming.
+- ⚡ &nbsp; Fun fact: Programmer
 
 <br>
 
@@ -45,6 +44,7 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   <!-- ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&) -->
 - 🛢 &nbsp;
+  ![Amazon](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![PostgreeSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=2e82ff)
