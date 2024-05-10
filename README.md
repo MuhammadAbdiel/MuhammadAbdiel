@@ -44,6 +44,7 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   <!-- ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&) -->
 - 🛢 &nbsp;
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
   ![Amazon](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
