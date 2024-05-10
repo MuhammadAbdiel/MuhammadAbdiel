@@ -12,8 +12,7 @@
 - 💼 &nbsp; Full Stack Developer.
 - 🌱 &nbsp; Enthusiast in Web Programming.
 - ⚡ &nbsp; Fun fact: Programmer
-
-<br>
+  <br>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> Connect With Me
 
@@ -45,6 +44,7 @@
   <!-- ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&) -->
 - 🛢 &nbsp;
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   ![Amazon](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
