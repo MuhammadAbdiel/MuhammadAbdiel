@@ -29,8 +29,9 @@
 
 - 💻 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  <!-- ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js) -->
+  ![Hapi](https://img.shields.io/badge/-Hapi-333333?style=flat&logo=hapi)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=ff2e2e)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=2e82ff)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
@@ -39,11 +40,11 @@
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=2e82ff)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  <!-- ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&) -->
 - 🛢 &nbsp;
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
@@ -56,6 +57,7 @@
   ![Amazon](https://img.shields.io/badge/-AWS%20Elastic%20Load%20Balancing-333333?style=flat&logo=awselasticloadbalancing)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
   ![PostgreeSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=2e82ff)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
@@ -64,11 +66,19 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-333333?style=flat&logo=githubactions)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
+  ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Dbeaver](https://img.shields.io/badge/-Dbeaver-333333?style=flat&logo=dbeaver)
   ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+- 👨🏻‍💻 &nbsp;
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
+  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 
 <br/>
 
