@@ -29,6 +29,7 @@
 
 - 💻 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+  ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=Next.js)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Hapi](https://img.shields.io/badge/-Hapi-333333?style=flat&logo=hapi)
