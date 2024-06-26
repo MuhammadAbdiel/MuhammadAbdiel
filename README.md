@@ -50,6 +50,13 @@
 - 🛢 &nbsp;
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
+  ![PostgreeSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=2e82ff)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+- 📦 &nbsp;
   ![Amazon](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
   ![Amazon](https://img.shields.io/badge/-Amazon%20EC2-333333?style=flat&logo=amazonec2)
   ![Amazon](https://img.shields.io/badge/-Amazon%20RDS-333333?style=flat&logo=amazonrds)
@@ -57,30 +64,29 @@
   ![Amazon](https://img.shields.io/badge/-Amazon%20ElastiCache-333333?style=flat&logo=amazonelasticache)
   ![Amazon](https://img.shields.io/badge/-Amazon%20CloudWatch-333333?style=flat&logo=amazoncloudwatch)
   ![Amazon](https://img.shields.io/badge/-AWS%20Elastic%20Load%20Balancing-333333?style=flat&logo=awselasticloadbalancing)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
-  ![PostgreeSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=2e82ff)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+- 👨🏻‍💻 &nbsp;
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
+  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitHub Actions](https://img.shields.io/badge/-Github%20Actions-333333?style=flat&logo=githubactions)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
   ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
   ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
   ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
   ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
 - 🔧 &nbsp;
+  ![Google Colaboratory](https://img.shields.io/badge/-Google%20Colaboratory-333333?style=flat&logo=googlecolab)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Dbeaver](https://img.shields.io/badge/-Dbeaver-333333?style=flat&logo=dbeaver)
   ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
-- 👨🏻‍💻 &nbsp;
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
-  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+- 🖥️ &nbsp;
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=0078D6)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
 <br/>
 
