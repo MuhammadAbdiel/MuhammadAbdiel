@@ -58,12 +58,16 @@
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 - 📦 &nbsp;
   ![Amazon](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
+  ![Amazon](https://img.shields.io/badge/-Amazon%20Identity%20Access%20Management-333333?style=flat&logo=amazoniam)
   ![Amazon](https://img.shields.io/badge/-Amazon%20EC2-333333?style=flat&logo=amazonec2)
   ![Amazon](https://img.shields.io/badge/-Amazon%20RDS-333333?style=flat&logo=amazonrds)
+  ![Amazon](https://img.shields.io/badge/-Amazon%20MQ-333333?style=flat&logo=amazonmq)
   ![Amazon](https://img.shields.io/badge/-Amazon%20S3-333333?style=flat&logo=amazons3)
   ![Amazon](https://img.shields.io/badge/-Amazon%20ElastiCache-333333?style=flat&logo=amazonelasticache)
   ![Amazon](https://img.shields.io/badge/-Amazon%20CloudWatch-333333?style=flat&logo=amazoncloudwatch)
   ![Amazon](https://img.shields.io/badge/-AWS%20Elastic%20Load%20Balancing-333333?style=flat&logo=awselasticloadbalancing)
+  ![Amazon](https://img.shields.io/badge/-AWS%20Elastic%20Container%20Registry-333333?style=flat&logo=amazonecr)
+  ![Amazon](https://img.shields.io/badge/-AWS%20CodeBuild-333333?style=flat&logo=amazoncodebuild)
 - 👨🏻‍💻 &nbsp;
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
