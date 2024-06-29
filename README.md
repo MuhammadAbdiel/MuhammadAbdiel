@@ -68,6 +68,7 @@
   ![Amazon](https://img.shields.io/badge/-AWS%20Elastic%20Load%20Balancing-333333?style=flat&logo=awselasticloadbalancing)
   ![Amazon](https://img.shields.io/badge/-AWS%20Elastic%20Container%20Registry-333333?style=flat&logo=amazonecr)
   ![Amazon](https://img.shields.io/badge/-AWS%20CodeBuild-333333?style=flat&logo=amazoncodebuild)
+  ![Amazon](https://img.shields.io/badge/-AWS%20Elastic%20Container%20Service-333333?style=flat&logo=amazonecs)
 - 👨🏻‍💻 &nbsp;
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
