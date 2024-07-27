@@ -53,6 +53,7 @@
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Appwrite](https://img.shields.io/badge/-Appwrite-333333?style=flat&logo=appwrite)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
   ![PostgreeSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=2e82ff)
