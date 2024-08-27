@@ -49,6 +49,7 @@
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=2e82ff)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 - 🛢 &nbsp;
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
