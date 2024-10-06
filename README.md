@@ -28,6 +28,9 @@
 ## 🛠 Language and Tools
 
 - 💻 &nbsp;
+  ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
+  ![Ethers](https://img.shields.io/badge/-Ethers-333333?style=flat&logo=ethers)
+  ![Web3.js](https://img.shields.io/badge/-Web3.js-333333?style=flat&logo=web3dotjs)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
   ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=Next.js)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue.js)
@@ -37,6 +40,7 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=2e82ff)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 - 🌐 &nbsp;
+  ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=Solidity)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
