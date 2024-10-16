@@ -65,6 +65,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 - 📦 &nbsp;
+  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
   ![Amazon](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
   ![Amazon](https://img.shields.io/badge/-Amazon%20Identity%20Access%20Management-333333?style=flat&logo=amazoniam)
   ![Amazon](https://img.shields.io/badge/-Amazon%20EC2-333333?style=flat&logo=amazonec2)
